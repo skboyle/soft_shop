@@ -1,0 +1,29 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  category: MyString
+  featured: false
+  product_code: MyString
+  description: MyText
+  specifications: MyText
+  operating_system: MyString
+  price: 1.5
+  cost: 1.5
+  msrp: 1.5
+  sale_count: 1
+  manufacturer: one
+
+two:
+  title: MyString
+  category: MyString
+  featured: false
+  product_code: MyString
+  description: MyText
+  specifications: MyText
+  operating_system: MyString
+  price: 1.5
+  cost: 1.5
+  msrp: 1.5
+  sale_count: 1
+  manufacturer: two
